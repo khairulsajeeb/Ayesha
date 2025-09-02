@@ -30,6 +30,9 @@ header img{
     width: 32px;
 }
 header, .controls{max-width:900px;margin:0 auto;padding:16px}
+header h1{
+    font-family: "Caveat", cursive;
+}
 h1{font-size:24px;margin:0}
 .controls{display:flex;gap:10px;margin-top:10px;flex-wrap:wrap}
 .controls input,.controls select{padding:8px 12px;border-radius:12px;border:1px solid #1f2937;background:#0b1220;color:var(--text)}
